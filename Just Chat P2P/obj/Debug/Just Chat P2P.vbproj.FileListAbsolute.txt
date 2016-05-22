@@ -1,0 +1,12 @@
+C:\Users\SQUTEAMEZ\Desktop\Just Chat P2P\Just Chat P2P\bin\Debug\Just Chat P2P.exe.config
+C:\Users\SQUTEAMEZ\Desktop\Just Chat P2P\Just Chat P2P\obj\Debug\Just Chat P2P.vbprojResolveAssemblyReference.cache
+C:\Users\SQUTEAMEZ\Desktop\Just Chat P2P\Just Chat P2P\obj\Debug\Just_Chat_P2P.ChatFreeway.resources
+C:\Users\SQUTEAMEZ\Desktop\Just Chat P2P\Just Chat P2P\obj\Debug\Just_Chat_P2P.Resources.resources
+C:\Users\SQUTEAMEZ\Desktop\Just Chat P2P\Just Chat P2P\obj\Debug\Just Chat P2P.vbproj.GenerateResource.Cache
+C:\Users\SQUTEAMEZ\Desktop\Just Chat P2P\Just Chat P2P\obj\Debug\Just Chat P2P.xml
+C:\Users\SQUTEAMEZ\Desktop\Just Chat P2P\Just Chat P2P\bin\Debug\Just Chat P2P.exe
+C:\Users\SQUTEAMEZ\Desktop\Just Chat P2P\Just Chat P2P\bin\Debug\Just Chat P2P.pdb
+C:\Users\SQUTEAMEZ\Desktop\Just Chat P2P\Just Chat P2P\bin\Debug\Just Chat P2P.xml
+C:\Users\SQUTEAMEZ\Desktop\Just Chat P2P\Just Chat P2P\obj\Debug\Just_Chat_P2P.Form1.resources
+C:\Users\SQUTEAMEZ\Desktop\Just Chat P2P\Just Chat P2P\obj\Debug\Just Chat P2P.exe
+C:\Users\SQUTEAMEZ\Desktop\Just Chat P2P\Just Chat P2P\obj\Debug\Just Chat P2P.pdb
